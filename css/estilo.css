@@ -4,3 +4,8 @@ body {
     color: deeppink;
 }
 
+
+#container {
+    background-color: rgb(51, 51, 51, 0.38);
+    border: 1px solid;
+}
